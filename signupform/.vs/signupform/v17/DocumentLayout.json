@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\GAMEPROJECTS\\signupform\\signupform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F3E4B5-7BDD-7B79-A398-B59A5005A161}|Assembly-CSharp.csproj|c:\\users\\asus\\documents\\gameprojects\\signupform\\signupform\\assets\\signupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F3E4B5-7BDD-7B79-A398-B59A5005A161}|Assembly-CSharp.csproj|solutionrelative:assets\\signupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpScript.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GAMEPROJECTS\\signupform\\signupform\\Assets\\SignUpScript.cs",
+              "RelativeDocumentMoniker": "Assets\\SignUpScript.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GAMEPROJECTS\\signupform\\signupform\\Assets\\SignUpScript.cs",
+              "RelativeToolTip": "Assets\\SignUpScript.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:35:45.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
